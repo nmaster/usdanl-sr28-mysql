@@ -1,6 +1,6 @@
 # usdanl-sr28-mysql
 
-This repo provides a simple shell script to import the ASCII file version of the USDA National Nutrient Database (Release SR-28) [1] into a local MySQL database. The script has been developed on Ubuntu 15.10 using MySQL 5.6, but should work with older versions as well.
+This repo provides a simple shell script to import the ASCII file version of the USDA National Nutrient Database (Release SR-28) [1] into a local MySQL database. A database schema strictly following the USDA reference documentation is included. The script has been developed on Ubuntu 15.10 using MySQL 5.6.
 
 ## Use Instructions
 
