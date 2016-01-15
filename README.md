@@ -9,7 +9,7 @@ Simply run the script, including parameters for mysql username and password (see
 ./sr28_import.sh mysqluser mysqlpass
 ```
 
-After successful execution, you should find a new database `usdanlsr28` on your MySQL server, and the official reference documentation for the USDA National Nutrient Database `sr28_doc.pdf` in the current directory.
+After successful execution, you should find a database `usdanlsr28` populated with data on your MySQL server. The official reference documentation for the USDA National Nutrient Database should exist as PDF file `sr28_doc.pdf` in the current directory.
 
 ## References
 
